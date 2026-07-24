@@ -1,8 +1,8 @@
 # Terms of Service
 
-**Version:** 2026-07-16  
-**Last updated:** July 16, 2026  
-**Effective date:** July 16, 2026  
+**Version:** 2026-07-23  
+**Last updated:** July 23, 2026  
+**Effective date:** July 23, 2026  
 
 These Terms of Service (“**Terms**”) govern your access to and use of the GymDuels mobile application and related services (collectively, the “**Service**”) operated by **Angel Mota**, an individual / sole proprietor doing business as **GymDuels** (“**GymDuels**,” “**we**,” “**us**,” or “**our**”).
 
@@ -232,7 +232,7 @@ Some jurisdictions do not allow certain disclaimers; in those jurisdictions, our
 
 ## 16. Limitation of liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ANGEL MOTA / GYMBATTLES AND HIS AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING FROM YOUR USE OF THE SERVICE.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ANGEL MOTA / GYMDUELS AND HIS AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING FROM YOUR USE OF THE SERVICE.
 
 OUR TOTAL LIABILITY FOR ANY CLAIM ARISING OUT OF OR RELATING TO THE SERVICE OR THESE TERMS WILL NOT EXCEED THE GREATER OF **(A) USD $100** OR **(B) THE AMOUNT YOU PAID US (VIA APPLE) FOR THE SERVICE IN THE TWELVE (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM**.
 
@@ -266,7 +266,7 @@ You agree to defend, indemnify, and hold harmless Angel Mota / GymDuels from any
 
 19.3. Your continued use after the effective date of updated Terms constitutes acceptance if permitted by law. If you do not agree, you must stop using the Service and may delete your account.
 
-The in-app legal gate compares your accepted version to the current required **terms version** (`2026-07-16` at this release).
+The in-app legal gate compares your accepted version to the current required **terms version** (`2026-07-23` at this release).
 
 ---
 

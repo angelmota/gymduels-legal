@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Version:** 2026-07-16  
-**Last updated:** July 16, 2026  
-**Effective date:** July 16, 2026  
+**Version:** 2026-07-23  
+**Last updated:** July 23, 2026  
+**Effective date:** July 23, 2026  
 
 This Privacy Policy describes how **Angel Mota**, an individual / sole proprietor doing business as **GymDuels** (“**GymDuels**,” “**we**,” “**us**,” or “**our**”), collects, uses, shares, and protects information when you use the GymDuels mobile application and related services (the “**Service**”).
 

@@ -57,8 +57,8 @@ FOOTER = """
   </main>
   <footer class="site-footer">
     <div class="site-footer__inner">
-      <p>Version 2026-07-16</p>
-      <p>Last updated: July 16, 2026</p>
+      <p>Version 2026-07-23</p>
+      <p>Last updated: July 23, 2026</p>
     </div>
   </footer>
 </body>
